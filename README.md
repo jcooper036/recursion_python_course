@@ -1,8 +1,4 @@
-
-
-<p align="center">
-  <image_assets/logo.png />
-</p>  
+![what a logo!](image_assets/logo.png)
   
 # Teaching Python
 Python is a powerful, generalizable tool that you can use for many purposes. It is one of the most popular programing languages in the world right now, and that is generally owed to its immense flexibility and applicability to different types of programming. As much as this course is about learning the practical application of python, it is also about developing a shared language and learning experience for people in different areas of the company. 
