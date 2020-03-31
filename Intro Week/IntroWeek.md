@@ -41,7 +41,7 @@ To be frank, most of the instructors are much more familiar with MaxOS / Linux b
 - Terminal = Powershell	
 
 ## Mac Users: You have an extra step
-It turns out that Mac’s have an extra step, because we need to install some developer tools. We need to install Xcode, which will provide some behind the scenes libraries that some programs might need. Vague, I know, but the things that require Xcode are sporadic. Here is how to install it, with some additional detail if you get stuck
+It turns out that Mac’s have an extra step, because we need to install some developer tools. We need to install Xcode, which will provide some behind the scenes libraries that some programs might need. Vague, I know, but the things that require Xcode are sporadic. Here is how to install it, with some [additional detail](https://osxdaily.com/2014/02/12/install-command-line-tools-mac-os-x/) if you get stuck:
 - Launch the terminal  
 - Run `xcode-select --install`  
 - A software prompt will appear, asking you about installing xcode. Select “install”  
